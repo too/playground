@@ -6,6 +6,7 @@ This repository is mainly work as a sandbox place for organization member applic
 
 
 ## To join the organization
+如何加入成都 python 组织
 - [Fork] this project
 - Add yourself into [members.md](https://github.com/chengdupython/playground/blob/master/members.md)
 - Send [Pull Request]
