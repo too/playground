@@ -6,7 +6,7 @@ List of members and projects from members
 Avatar | Nickname | github id
 ------------ | ------------- | -------------
 ![eduardo naufel schettino](https://avatars0.githubusercontent.com/u/138474?v=3&s=48)|肚肚(Group Founder)|[schettino72](https://github.com/schettino72)
-
+![mugbya](https://avatars1.githubusercontent.com/u/5524117?v=3&s=48) | 洛 | [mugbya](https://github.com/mugbya)
 
 ## Projects
 
