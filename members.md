@@ -12,6 +12,7 @@ Avatar | Nickname | github id
 ![lambdaq](https://avatars2.githubusercontent.com/u/987524?v=3&s=48)|lambdaq|[lambdaq](https://github.com/lambdaq)
 ![QG Avatar](https://avatars3.githubusercontent.com/u/2939865?v=3&s=48)|QuantumGhost|[QuantumGhost](https://github.com/QuantumGhost)
 ![Too's Avatar](https://avatars3.githubusercontent.com/u/171673?v=3&s=48)|too|[too](https://github.com/too)
+![haobug avatar](https://avatars1.githubusercontent.com/u/1269309?v=3&s=48)|haobug|[haobug](https://github.com/haobug)
 
 ## Projects
 
