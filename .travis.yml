@@ -1,7 +1,0 @@
-language: ruby
-
-install: 
-  - gem install mdl
-  
-script:
-  - mdl *.md
