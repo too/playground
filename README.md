@@ -1,3 +1,5 @@
+![travis_status](https://travis-ci.org/chengdupython/playground.svg?branch=master)
+
 # playground
 
 This repository is mainly work as a sandbox place for organization member
