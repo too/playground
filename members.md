@@ -10,7 +10,7 @@ Avatar | Nickname | github id
 ![mugbya](https://avatars1.githubusercontent.com/u/5524117?v=3&s=48) | 洛 | [mugbya](https://github.com/mugbya)
 ![lambdaq](https://avatars2.githubusercontent.com/u/987524?v=3&s=48)|lambdaq|[lambdaq](https://github.com/lambdaq)
 ![QG Avatar](https://avatars3.githubusercontent.com/u/2939865?v=3&s=48)|QuantumGhost|[QuantumGhost](https://github.com/QuantumGhost)
-![Too Avatar](https://www.gravatar.com/avatar/e9d858f462ead7c356c030819edf65c3?s=48&d=mm)|Too|[Too](https://github.com/too)
+![Too's Avatar](https://avatars3.githubusercontent.com/u/171673?v=3&s=48)|too|[too](https://github.com/too)
 
 ## Projects
 
