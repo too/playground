@@ -15,6 +15,7 @@ Avatar | Nickname | github id
 ![haobug avatar](https://avatars1.githubusercontent.com/u/1269309?v=3&s=48)|haobug|[haobug](https://github.com/haobug)
 ![lijunwei avatar](https://avatars3.githubusercontent.com/u/5803500?v=3&s=48)|李俊伟|[LiJunWei](https://github.com/LiJunWei)
 ![Ian Li's avatar](https://avatars3.githubusercontent.com/u/1948179?v=3&s=48)|残影（Ian&nbsp;Li）|[techotaku](https://github.com/techotaku)
+![iceihehe avatar](https://avatars3.githubusercontent.com/u/8065543?v=3&s=400)|iceihehe|[iceihehe](https://github.com/iceihehe)
 
 ## Projects
 
